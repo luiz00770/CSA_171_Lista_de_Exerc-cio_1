@@ -1,7 +1,0 @@
-C:\Users\luizp\source\repos\Média_aritmética\bin\Debug\Média_aritmética.exe.config
-C:\Users\luizp\source\repos\Média_aritmética\bin\Debug\Média_aritmética.exe
-C:\Users\luizp\source\repos\Média_aritmética\bin\Debug\Média_aritmética.pdb
-C:\Users\luizp\source\repos\Média_aritmética\obj\Debug\Média_aritmética.csproj.AssemblyReference.cache
-C:\Users\luizp\source\repos\Média_aritmética\obj\Debug\Média_aritmética.csproj.CoreCompileInputs.cache
-C:\Users\luizp\source\repos\Média_aritmética\obj\Debug\Média_aritmética.exe
-C:\Users\luizp\source\repos\Média_aritmética\obj\Debug\Média_aritmética.pdb
