@@ -1,0 +1,7 @@
+C:\Users\luizp\source\repos\Potência\bin\Debug\Potência.exe.config
+C:\Users\luizp\source\repos\Potência\bin\Debug\Potência.exe
+C:\Users\luizp\source\repos\Potência\bin\Debug\Potência.pdb
+C:\Users\luizp\source\repos\Potência\obj\Debug\Potência.csproj.AssemblyReference.cache
+C:\Users\luizp\source\repos\Potência\obj\Debug\Potência.csproj.CoreCompileInputs.cache
+C:\Users\luizp\source\repos\Potência\obj\Debug\Potência.exe
+C:\Users\luizp\source\repos\Potência\obj\Debug\Potência.pdb

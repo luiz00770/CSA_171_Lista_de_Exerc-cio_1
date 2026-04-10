@@ -1,0 +1,7 @@
+C:\Users\luizp\source\repos\Produtos\bin\Debug\Produtos.exe.config
+C:\Users\luizp\source\repos\Produtos\bin\Debug\Produtos.exe
+C:\Users\luizp\source\repos\Produtos\bin\Debug\Produtos.pdb
+C:\Users\luizp\source\repos\Produtos\obj\Debug\Produtos.csproj.AssemblyReference.cache
+C:\Users\luizp\source\repos\Produtos\obj\Debug\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\luizp\source\repos\Produtos\obj\Debug\Produtos.exe
+C:\Users\luizp\source\repos\Produtos\obj\Debug\Produtos.pdb

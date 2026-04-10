@@ -1,0 +1,7 @@
+C:\Users\luizp\source\repos\Diagonal_quadrado\bin\Debug\Diagonal_quadrado.exe.config
+C:\Users\luizp\source\repos\Diagonal_quadrado\bin\Debug\Diagonal_quadrado.exe
+C:\Users\luizp\source\repos\Diagonal_quadrado\bin\Debug\Diagonal_quadrado.pdb
+C:\Users\luizp\source\repos\Diagonal_quadrado\obj\Debug\Diagonal_quadrado.csproj.AssemblyReference.cache
+C:\Users\luizp\source\repos\Diagonal_quadrado\obj\Debug\Diagonal_quadrado.csproj.CoreCompileInputs.cache
+C:\Users\luizp\source\repos\Diagonal_quadrado\obj\Debug\Diagonal_quadrado.exe
+C:\Users\luizp\source\repos\Diagonal_quadrado\obj\Debug\Diagonal_quadrado.pdb

@@ -1,0 +1,7 @@
+C:\Users\luizp\source\repos\Média_geométrica\obj\Debug\Média_geométrica.csproj.AssemblyReference.cache
+C:\Users\luizp\source\repos\Média_geométrica\obj\Debug\Média_geométrica.csproj.CoreCompileInputs.cache
+C:\Users\luizp\source\repos\Média_geométrica\bin\Debug\Média_geométrica.exe.config
+C:\Users\luizp\source\repos\Média_geométrica\bin\Debug\Média_geométrica.exe
+C:\Users\luizp\source\repos\Média_geométrica\bin\Debug\Média_geométrica.pdb
+C:\Users\luizp\source\repos\Média_geométrica\obj\Debug\Média_geométrica.exe
+C:\Users\luizp\source\repos\Média_geométrica\obj\Debug\Média_geométrica.pdb
