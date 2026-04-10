@@ -1,0 +1,7 @@
+C:\Users\luizp\source\repos\Cotação_dólar\obj\Debug\Cotação_dólar.csproj.AssemblyReference.cache
+C:\Users\luizp\source\repos\Cotação_dólar\obj\Debug\Cotação_dólar.csproj.CoreCompileInputs.cache
+C:\Users\luizp\source\repos\Cotação_dólar\bin\Debug\Cotação_dólar.exe.config
+C:\Users\luizp\source\repos\Cotação_dólar\bin\Debug\Cotação_dólar.exe
+C:\Users\luizp\source\repos\Cotação_dólar\bin\Debug\Cotação_dólar.pdb
+C:\Users\luizp\source\repos\Cotação_dólar\obj\Debug\Cotação_dólar.exe
+C:\Users\luizp\source\repos\Cotação_dólar\obj\Debug\Cotação_dólar.pdb

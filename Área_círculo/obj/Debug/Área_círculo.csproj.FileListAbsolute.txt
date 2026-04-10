@@ -1,0 +1,7 @@
+C:\Users\luizp\source\repos\Área_círculo\bin\Debug\Área_círculo.exe.config
+C:\Users\luizp\source\repos\Área_círculo\bin\Debug\Área_círculo.exe
+C:\Users\luizp\source\repos\Área_círculo\bin\Debug\Área_círculo.pdb
+C:\Users\luizp\source\repos\Área_círculo\obj\Debug\Área_círculo.csproj.AssemblyReference.cache
+C:\Users\luizp\source\repos\Área_círculo\obj\Debug\Área_círculo.csproj.CoreCompileInputs.cache
+C:\Users\luizp\source\repos\Área_círculo\obj\Debug\Área_círculo.exe
+C:\Users\luizp\source\repos\Área_círculo\obj\Debug\Área_círculo.pdb

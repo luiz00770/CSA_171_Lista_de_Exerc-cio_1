@@ -1,0 +1,7 @@
+C:\Users\luizp\source\repos\Área_do_retângulo\bin\Debug\Área_do_retângulo.exe.config
+C:\Users\luizp\source\repos\Área_do_retângulo\bin\Debug\Área_do_retângulo.exe
+C:\Users\luizp\source\repos\Área_do_retângulo\bin\Debug\Área_do_retângulo.pdb
+C:\Users\luizp\source\repos\Área_do_retângulo\obj\Debug\Área_do_retângulo.csproj.AssemblyReference.cache
+C:\Users\luizp\source\repos\Área_do_retângulo\obj\Debug\Área_do_retângulo.csproj.CoreCompileInputs.cache
+C:\Users\luizp\source\repos\Área_do_retângulo\obj\Debug\Área_do_retângulo.exe
+C:\Users\luizp\source\repos\Área_do_retângulo\obj\Debug\Área_do_retângulo.pdb

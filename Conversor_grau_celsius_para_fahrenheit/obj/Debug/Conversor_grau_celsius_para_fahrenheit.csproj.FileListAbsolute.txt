@@ -1,0 +1,7 @@
+C:\Users\luizp\source\repos\Conversor_grau_celsius_para_fahrenheit\bin\Debug\Conversor_grau_celsius_para_fahrenheit.exe.config
+C:\Users\luizp\source\repos\Conversor_grau_celsius_para_fahrenheit\bin\Debug\Conversor_grau_celsius_para_fahrenheit.exe
+C:\Users\luizp\source\repos\Conversor_grau_celsius_para_fahrenheit\bin\Debug\Conversor_grau_celsius_para_fahrenheit.pdb
+C:\Users\luizp\source\repos\Conversor_grau_celsius_para_fahrenheit\obj\Debug\Conversor_grau_celsius_para_fahrenheit.csproj.AssemblyReference.cache
+C:\Users\luizp\source\repos\Conversor_grau_celsius_para_fahrenheit\obj\Debug\Conversor_grau_celsius_para_fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\luizp\source\repos\Conversor_grau_celsius_para_fahrenheit\obj\Debug\Conversor_grau_celsius_para_fahrenheit.exe
+C:\Users\luizp\source\repos\Conversor_grau_celsius_para_fahrenheit\obj\Debug\Conversor_grau_celsius_para_fahrenheit.pdb
